@@ -12,7 +12,6 @@ I'm a full-stack web developer with a passion for building impactful, secure, an
 ## **Projects:**
 
 ## **Multiplayer Game**
-
 Developed a 2D real-time multiplayer fighting game using Canvas, Node.js, Express.js, Socket.IO, and NGINX load balancing.
 Real-Time Multiplayer: Players connect in real-time to compete in 2D combat, with seamless synchronization and lag reduction.
 Matchmaking: Automatically matches players based on their skill levels and region.
