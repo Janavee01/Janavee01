@@ -11,7 +11,7 @@ I'm a full-stack web developer with a passion for building impactful, secure, an
 
 ## **Projects:**
 
-Intrusion Detection System with Snort, Google Cloud, and BigQuery
+**Intrusion Detection System with Snort, Google Cloud, and BigQuery**
 This project involves the creation of an automated Intrusion Detection and
 Alerting System that works in real-time. The system logs security-related
 events, stores them in cloud storage (Google Cloud), and performs
@@ -20,8 +20,8 @@ network intrusion detection system that monitors network traffic. Realtime Alert
 activity. Data Analytics: The logs and alerts are processed and stored in
 Google Cloud, where BigQuery is used for SQL-based analysis and
 reporting
-
-Multiplayer Game
+---
+**Multiplayer Game**
 Developed a 2D real-time multiplayer fighting game using a combination
 of Canvas, Node.js, Express.js, Socket.IO, and NGINX load balancing. Key
 features include: Real-Time Multiplayer: Players connect in real-time to
@@ -29,8 +29,8 @@ compete in 2D combat, with seamless synchronization and lag reduction.
 Matchmaking: Automatically matches players based on their skill levels
 and region.. Environmental Hazards: The game environment includes
 dynamic obstacles and hazards that affect gameplay.
-
-AI Parental Control Browser Extension
+---
+**AI Parental Control Browser Extension**
 Developed AI Parental Control, a Chrome extension that monitors, logs,
 and restricts web browsing to enhance child safety online. It captures
 YouTube and general browsing history by recording video titles, article
