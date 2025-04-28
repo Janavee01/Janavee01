@@ -13,27 +13,19 @@ I'm a full-stack web developer with a passion for building impactful, secure, an
 
 ## **Multiplayer Game**
 
-Developed a 2D real-time multiplayer fighting game using a combination
-of Canvas, Node.js, Express.js, Socket.IO, and NGINX load balancing. Key
-features include: Real-Time Multiplayer: Players connect in real-time to
-compete in 2D combat, with seamless synchronization and lag reduction.
-Matchmaking: Automatically matches players based on their skill levels
-and region.. Environmental Hazards: The game environment includes
-dynamic obstacles and hazards that affect gameplay.
+Developed a 2D real-time multiplayer fighting game using Canvas, Node.js, Express.js, Socket.IO, and NGINX load balancing.
+Real-Time Multiplayer: Players connect in real-time to compete in 2D combat, with seamless synchronization and lag reduction.
+Matchmaking: Automatically matches players based on their skill levels and region.
+Environmental Hazards: The game environment includes dynamic obstacles and hazards that affect gameplay.
 ---
 ## **AI Parental Control Browser Extension**
-
-Developed AI Parental Control, a Chrome extension that monitors, logs,
-and restricts web browsing to enhance child safety online. It captures
-YouTube and general browsing history by recording video titles, article
-snippets, URLs, and timestamps, securely storing them in local storage.
-The extension blocks inappropriate content by integrating external
-blocklists (adult and gambling sites) and custom rules, refreshing
-automatically every six hours. Implemented a responsive popup UI to
-display recent activity and used Chrome’s Declarative Net Request API for
-efficient blocking with minimal performance impact. Features include a
-Parental Dashboard for intuitive activity monitoring and custom filtering,
-and Real-Time Alerts notifying parents of restricted access attempts.
+Developed a Chrome extension that monitors, logs, and restricts web browsing to enhance child safety online.
+Activity Logging: Captures YouTube and general browsing history, recording video titles, article snippets, URLs, and timestamps, securely storing them in local storage.
+Content Blocking: Integrates external blocklists (adult and gambling sites) and custom rules for blocking inappropriate content, refreshing every six hours.
+Popup UI: Implemented a responsive UI to display recent activity.
+Efficient Blocking: Used Chrome’s Declarative Net Request API for efficient blocking with minimal performance impact.
+Parental Dashboard: Provides an intuitive activity monitoring dashboard with custom filtering.
+Real-Time Alerts: Notifies parents of restricted access attempts in real time.
 ---
 ## **Intrusion Detection System with Snort, Google Cloud, and BigQuery**
 
