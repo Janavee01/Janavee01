@@ -11,35 +11,37 @@ I'm a full-stack web developer with a passion for building impactful, secure, an
 
 ## **Projects:**
 
-### **Intrusion Detection System with Snort, Google Cloud, and BigQuery**
-This project involves the creation of an automated **Intrusion Detection and Alerting System** that works in real-time. The system logs security-related events, stores them in cloud storage (Google Cloud), and performs analytics using **BigQuery**. Key components include:
-- **Snort**: An open-source network intrusion detection system that monitors network traffic.
-- **Real-time Alerts**: Uses **SMS** and **email alerts** to notify users of suspicious activity.
-- **Data Analytics**: The logs and alerts are processed and stored in Google Cloud, where **BigQuery** is used for SQL-based analysis and reporting.
+Intrusion Detection System with Snort, Google Cloud, and BigQuery
+This project involves the creation of an automated Intrusion Detection and
+Alerting System that works in real-time. The system logs security-related
+events, stores them in cloud storage (Google Cloud), and performs
+analytics using BigQuery. Key components include: Snort: An open-source
+network intrusion detection system that monitors network traffic. Realtime Alerts: Uses SMS and email alerts to notify users of suspicious
+activity. Data Analytics: The logs and alerts are processed and stored in
+Google Cloud, where BigQuery is used for SQL-based analysis and
+reporting
 
-This project is focused on creating a secure, scalable, and automated solution to monitor and react to network security events.
+Multiplayer Game
+Developed a 2D real-time multiplayer fighting game using a combination
+of Canvas, Node.js, Express.js, Socket.IO, and NGINX load balancing. Key
+features include: Real-Time Multiplayer: Players connect in real-time to
+compete in 2D combat, with seamless synchronization and lag reduction.
+Matchmaking: Automatically matches players based on their skill levels
+and region.. Environmental Hazards: The game environment includes
+dynamic obstacles and hazards that affect gameplay.
 
-### **SkyBound Clash — Multiplayer Game**
-Developed a **2D real-time multiplayer fighting game** using a combination of **HTML5 Canvas**, **Node.js**, **Socket.IO**, and **NGINX load balancing**. Key features include:
-- **Real-Time Multiplayer**: Players connect in real-time to compete in 2D combat, with seamless synchronization and lag reduction.
-- **Matchmaking**: Automatically matches players based on their skill levels and region for optimal performance.
-- **Client Prediction**: Reduces perceived lag by predicting the outcome of actions before the server responds, creating a smoother gameplay experience.
-- **Environmental Hazards**: The game environment includes dynamic obstacles and hazards that affect gameplay.
-- **Scalable Server Architecture**: Utilizes **NGINX** for load balancing to handle a large number of concurrent players efficiently.
-
-This project showcases my ability to work on scalable server-side infrastructure and deliver an engaging gaming experience using real-time communication technologies.
-
-### **NetNanny AI → AI-powered Browser Extension for Child Safety**
-The **NetNanny AI** is an intelligent **browser extension** that helps protect children from harmful online content. It blocks inappropriate websites and filters content based on real-time analysis. Features include:
-- **Content Filtering**: Automatically blocks websites containing harmful or inappropriate content using AI-based algorithms.
-- **Parental Dashboard**: Provides a user-friendly, intuitive interface for parents to monitor their children’s browsing activity and set personalized content filtering rules.
-- **Real-Time Alerts**: Sends notifications to parents whenever their child attempts to access a restricted website.
-- **Compatibility**: Works across major browsers (Chrome, Firefox, Edge) and integrates seamlessly with everyday browsing experiences.
-- **Security & Privacy Focused**: Built with privacy in mind, the extension ensures no sensitive user data is stored or shared without consent.
-
-This project demonstrates my ability to develop intelligent applications that prioritize user safety, combining **JavaScript**, **Node.js**, and **AI** algorithms to create an effective real-time filtering system.
-
----
+AI Parental Control Browser Extension
+Developed AI Parental Control, a Chrome extension that monitors, logs,
+and restricts web browsing to enhance child safety online. It captures
+YouTube and general browsing history by recording video titles, article
+snippets, URLs, and timestamps, securely storing them in local storage.
+The extension blocks inappropriate content by integrating external
+blocklists (adult and gambling sites) and custom rules, refreshing
+automatically every six hours. Implemented a responsive popup UI to
+display recent activity and used Chrome’s Declarative Net Request API for
+efficient blocking with minimal performance impact. Features include a
+Parental Dashboard for intuitive activity monitoring and custom filtering,
+and Real-Time Alerts notifying parents of restricted access attempts.
 
 ## **📫 Socials:**
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janavee2k6@gmail.com)
