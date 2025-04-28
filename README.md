@@ -12,6 +12,7 @@ I'm a full-stack web developer with a passion for building impactful, secure, an
 ## **Projects:**
 
 ## **Multiplayer Game**
+
 Developed a 2D real-time multiplayer fighting game using a combination
 of Canvas, Node.js, Express.js, Socket.IO, and NGINX load balancing. Key
 features include: Real-Time Multiplayer: Players connect in real-time to
@@ -21,6 +22,7 @@ and region.. Environmental Hazards: The game environment includes
 dynamic obstacles and hazards that affect gameplay.
 ---
 ## **AI Parental Control Browser Extension**
+
 Developed AI Parental Control, a Chrome extension that monitors, logs,
 and restricts web browsing to enhance child safety online. It captures
 YouTube and general browsing history by recording video titles, article
@@ -34,6 +36,7 @@ Parental Dashboard for intuitive activity monitoring and custom filtering,
 and Real-Time Alerts notifying parents of restricted access attempts.
 ---
 ## **Intrusion Detection System with Snort, Google Cloud, and BigQuery**
+
 This project involves the creation of an automated Intrusion Detection and
 Alerting System that works in real-time. The system logs security-related
 events, stores them in cloud storage (Google Cloud), and performs
