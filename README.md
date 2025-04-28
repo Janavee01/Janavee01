@@ -9,7 +9,7 @@ I'm a full-stack web developer with a passion for building impactful, secure, an
 
 ---
 
-## **Your Highlighted Projects:**
+## **Projects:**
 
 ### **Intrusion Detection System with Snort, Google Cloud, and BigQuery**
 This project involves the creation of an automated **Intrusion Detection and Alerting System** that works in real-time. The system logs security-related events, stores them in cloud storage (Google Cloud), and performs analytics using **BigQuery**. Key components include:
