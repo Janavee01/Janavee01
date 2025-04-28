@@ -1,5 +1,6 @@
-## **About Me:**
+## About Me:
 I'm a full-stack web developer with a passion for building impactful, secure, and intelligent web applications. I love turning ideas into responsive, user-friendly platforms — from simple dashboards to AI-powered apps.
+
 - ⚙️ Building full-stack applications with **Node.js**, **Express.js**, **React**, **Flutter**
 - 🧾 Designing dashboards for real-time logging, analytics, and system insights
 - 🔒 Exploring web security by simulating attacks and SMS alerting
@@ -9,40 +10,28 @@ I'm a full-stack web developer with a passion for building impactful, secure, an
 
 ---
 
-## **Projects:**
+## Projects:
 
-## **Multiplayer Game**
-Developed a 2D real-time multiplayer fighting game using Canvas, Node.js, Express.js, Socket.IO, and NGINX load balancing.
-Real-Time Multiplayer: Players connect in real-time to compete in 2D combat, with seamless synchronization and lag reduction.
-Matchmaking: Automatically matches players based on their skill levels and region.
-Environmental Hazards: The game environment includes dynamic obstacles and hazards that affect gameplay.
+### **AI Parental Control Browser Extension**
+
 ---
-## **AI Parental Control Browser Extension**
-Developed a Chrome extension that monitors, logs, and restricts web browsing to enhance child safety online.
-Activity Logging: Captures YouTube and general browsing history, recording video titles, article snippets, URLs, and timestamps, securely storing them in local storage.
-Content Blocking: Integrates external blocklists (adult and gambling sites) and custom rules for blocking inappropriate content, refreshing every six hours.
-Popup UI: Implemented a responsive UI to display recent activity.
-Efficient Blocking: Used Chrome’s Declarative Net Request API for efficient blocking with minimal performance impact.
-Parental Dashboard: Provides an intuitive activity monitoring dashboard with custom filtering.
-Real-Time Alerts: Notifies parents of restricted access attempts in real time.
+
+### **Intrusion Detection System with Snort, Google Cloud, and BigQuery**
+
+This project involves the creation of an automated Intrusion Detection and Alerting System that works in real-time. The system logs security-related events, stores them in cloud storage (Google Cloud), and performs analytics using BigQuery. Key components include:
+
+- **Snort**: An open-source network intrusion detection system that monitors network traffic.
+- **Realtime Alerts**: Uses SMS and email alerts to notify users of suspicious activity.
+- **Data Analytics**: The logs and alerts are processed and stored in Google Cloud, where BigQuery is used for SQL-based analysis and reporting.
+
 ---
-## **Intrusion Detection System with Snort, Google Cloud, and BigQuery**
 
-This project involves the creation of an automated Intrusion Detection and
-Alerting System that works in real-time. The system logs security-related
-events, stores them in cloud storage (Google Cloud), and performs
-analytics using BigQuery. Key components include: Snort: An open-source
-network intrusion detection system that monitors network traffic. Realtime Alerts: Uses SMS and email alerts to notify users of suspicious
-activity. Data Analytics: The logs and alerts are processed and stored in
-Google Cloud, where BigQuery is used for SQL-based analysis and
-reporting
-
-## **📫 Socials:**
+## 📫 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janavee2k6@gmail.com)
 
 ---
 
-## **💻 Tech Stack:**
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
