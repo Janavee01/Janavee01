@@ -43,6 +43,22 @@ This project involves the creation of an automated Intrusion Detection and Alert
 
 ---
 
+### **Emotion Aware Storyteller –Emovox**
+
+Emovox is a full-stack AI-powered web application that focuses on
+bringing written stories to life through emotionally intelligent narration.
+Designed for content creators, educators, visually impaired users and
+anyone interested in expressive audio storytelling. It delivers a more
+human and immersive story experience by blending NLP, TTS, and
+emotional analysis. Key Features:- Sentence-level emotion analysis using
+DistilRoBERTa. Uses TinyLlama to craft natural, emotion-specific voice
+direction for each line. Parler-TTS Narration: Converts text to high-quality
+expressive speech that reflects emotional context. Automatically overlays
+background music that matches the story’s emotional arc, using custom
+music tracks. Shows how emotional tone evolves across the story using an
+interactive chart (Chart.js).
+
+
 ## 📫 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janavee2k6@gmail.com)
 
@@ -72,5 +88,6 @@ This project involves the creation of an automated Intrusion Detection and Alert
 ![Snort](https://img.shields.io/badge/Snort-EE0000?logo=snort&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-FF4F00?logo=twilio&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janavee01&layout=compact&theme=dark)
