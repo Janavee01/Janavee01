@@ -63,17 +63,6 @@ performance. Features include a responsive popup UI, a Parental
 Dashboard for activity monitoring and filtering, and Real-Time Alerts for
 restricted access attempts.
 
-### **Intrusion Detection and Alerting**
-
-This project involves the creation of an automated Intrusion Detection and
-Alerting System that works in real-time. The system logs security-related
-events, stores them in cloud storage (Google Cloud), and performs
-analytics using BigQuery. Snort: An open-source network intrusion
-detection system that monitors network traffic. Realtime Alerts: Uses SMS
-and email alerts to notify users of suspicious activity. Data Analytics: The
-logs and alerts are processed and stored in Google Cloud, where BigQuery
-is used for SQL-based analysis and reporting.
-
 ## 📫 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janavee2k6@gmail.com)
 
@@ -112,5 +101,6 @@ is used for SQL-based analysis and reporting.
 ![Twilio](https://img.shields.io/badge/Twilio-FF4F00?logo=twilio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=black)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janavee01&layout=compact&theme=dark)
