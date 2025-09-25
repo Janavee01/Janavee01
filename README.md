@@ -1,19 +1,16 @@
 ## About Me
 I'm Janavee, a full-stack web developer passionate about creating impactful, secure, and intelligent web applications. I specialize in turning ideas into responsive, user-friendly platforms — from AI-powered tools and interactive dashboards to decentralized NFT-based solutions.
-
-
-
- ---
  
-- ![Full-Stack](https://img.shields.io/badge/Full--Stack-🌐-blue) **Full-Stack & Real-Time Applications:** Building scalable apps with Node.js, Express.js, React, and Flutter, including real-time multiplayer games with Socket.IO and NGINX load balancing.
+- ![Full-Stack](https://img.shields.io/badge/🌐-Full--Stack-blue) **Full-Stack & Real-Time Applications:** Building scalable apps with Node.js, Express.js, React, and Flutter, including real-time multiplayer games with Socket.IO and NGINX load balancing.
 
-- ![AI](https://img.shields.io/badge/AI-🤖-purple) **AI & Interactive Tools:** Developing AI-driven apps with NLP, TTS, emotion analysis, and webcam-based simulations using Next.js and Tailwind CSS, such as Emovox and the Skincare AI Kiosk.
+- ![AI](https://img.shields.io/badge/🤖-AI-purple) **AI & Interactive Tools:** Developing AI-driven apps with NLP, TTS, emotion analysis, and webcam-based simulations using Next.js and Tailwind CSS, such as Emovox and the Skincare AI Kiosk.
 
-- ![Blockchain](https://img.shields.io/badge/Blockchain-🪙-orange) **Decentralized & Blockchain Solutions:** Implementing NFT-based secure data access, time-limited rentals, and multi-use NFTs for encrypted personal data (NFT Rental Tickets).
+- ![Blockchain](https://img.shields.io/badge/🪙-Blockchain-orange) **Decentralized & Blockchain Solutions:** Implementing NFT-based secure data access, time-limited rentals, and multi-use NFTs for encrypted personal data (NFT Rental Tickets).
 
-- ![Security](https://img.shields.io/badge/Security-🔒-red) **Security & Monitoring Solutions:** Designing web security and monitoring systems, including cloud-integrated dashboards, parental control extensions, and real-time alerts.
+- ![Security](https://img.shields.io/badge/🔒-Security-red) **Security & Monitoring Solutions:** Designing web security and monitoring systems, including cloud-integrated dashboards, parental control extensions, and real-time alerts.
 
-- ![UI/UX](https://img.shields.io/badge/UI--UX-🎨-pink) **Creative UI/UX Development:** Crafting responsive, accessible, and engaging interfaces, with projects like the ICSD Official Website and Recruitment Portal highlighting modern, interactive designs.
+- ![UI/UX](https://img.shields.io/badge/🎨-UI--UX-pink) **Creative UI/UX Development:** Crafting responsive, accessible, and engaging interfaces, with projects like the ICSD Official Website and Recruitment Portal highlighting modern, interactive designs.
+
 
 
 **Contact:** [janavee2k6@gmail.com](mailto:janavee2k6@gmail.com)
