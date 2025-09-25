@@ -1,15 +1,13 @@
-## About Me:
-I'm a full-stack web developer with a passion for building impactful, secure, and intelligent web applications. I love turning ideas into responsive, user-friendly platforms — from simple dashboards to AI-powered apps.
+## About Me
+I'm a full-stack web developer passionate about creating impactful, secure, and intelligent web applications. I specialize in turning ideas into responsive, user-friendly platforms — from AI-powered tools and interactive dashboards to decentralized NFT-based solutions.  
 
-- ⚙️ Full-Stack & Real-Time Applications: Building scalable full-stack apps with Node.js, Express.js, React, and Flutter, including real-time multiplayer games using Socket.IO and NGINX.
+- ⚙️ **Full-Stack & Real-Time Applications:** Building scalable apps with Node.js, Express.js, React, and Flutter, including real-time multiplayer games with Socket.IO and NGINX load balancing.  
+- 🤖 **AI & Interactive Tools:** Developing AI-driven apps with NLP, TTS, emotion analysis, and webcam-based simulations using Next.js and Tailwind CSS, such as **Emovox** and the **Skincare AI Kiosk**.  
+- 🔒 **Security & Monitoring Solutions:** Designing web security and monitoring systems, including cloud-integrated dashboards, parental control extensions, and real-time alerts.  
+- 🌐 **Decentralized & Blockchain Solutions:** Implementing NFT-based secure data access, time-limited rentals, and multi-use NFTs for encrypted personal data (**NFT Rental Tickets**).  
+- 🎨 **Creative UI/UX Development:** Crafting responsive, accessible, and engaging interfaces, with projects like the **ICSD Official Website** and **Recruitment Portal** highlighting modern, interactive designs.  
 
-- 🤖 AI & Interactive Tools: Developing AI-driven applications using NLP, TTS, emotion analysis, and webcam-based browser simulations with Next.js and Tailwind CSS.
-
-- 🔒 Security & Monitoring Solutions: Exploring web security via simulated attacks, SMS alerts, and creating cloud-integrated dashboards for analytics, parental control, and real-time monitoring.
-
-- 🎨 Creative UI/UX Development: Designing responsive, accessible, and user-friendly interfaces with a strong focus on engaging user experiences.
-
-**How to reach me:** [janavee2k6@gmail.com](mailto:janavee2k6@gmail.com)
+**📫 Connect with me:** [janavee2k6@gmail.com](mailto:janavee2k6@gmail.com)
 
 ---
 
@@ -27,6 +25,16 @@ skincare advice.
 
 ---
 
+### **ICSD Student Club – Official Website & Recruitment Portal**
+
+Built a complete web presence for the ICSD student club, with two Next.js apps: an informational website and a recruitment portal.
+
+Live Demo: [Wwbsite](https://site-fu5n1mj73-janavee01s-projects.vercel.app/)
+Tech Stack: Next.js, TypeScript, React, Tailwind CSS, OGL (WebGL)
+Recruitment Portal: Dynamic department forms, client-side validation (React Hook Form & Zod), and serverless data submission to Google Sheets. Modern, accessible UI with shadcn/ui.
+Live Demo: (https://recruitmentportalicsd.vercel.app/)
+Tech Stack: Next.js, TypeScript, React, Tailwind CSS, shadcn/ui, Radix UI, Google Apps Script
+
 ### **Emotion Aware Storyteller –Emovox**
 
 Emovox – Full-stack AI-powered web app that focuses on bringing written
@@ -39,29 +47,29 @@ visualizes emotional tone progression with Chart.js.
 
 ---
 
+### **NFT Rental Tickets**
+
+A decentralized platform where NFTs act as secure keys to encrypted personal data. Each NFT represents access to a vault or dataset, enabling temporary or conditional sharing without revealing passwords or storing personal data centrally.
+
+## Key Features:
+Time-Limited or Conditional Access: NFT holders can access data only for a defined duration or under specific conditions.
+Encrypted Data Vaults: All data remains encrypted; only NFT holders can decrypt it.
+Verifiable Ownership: Blockchain ensures transparent ownership and automatic expiration of access rights.
+Multi-Use NFTs: NFTs can be reused or transferred while maintaining secure access rules.
+Repository: NFT Rental Tickets
+Tech Stack: Solidity, Ethereum, Web3.js, React, Tailwind CSS, Node.js
+
+---
+
 ### **Multiplayer Game**
 
-Developed a 2D real-time multiplayer fighting game using a combination
-of Canvas, Node.js, Express.js, JavaScript, Socket.IO, and NGINX load
-balancing. Real-Time Multiplayer: Players connect in real-time to compete
-in 2D combat, with seamless synchronization and lag reduction.
-Matchmaking: Automatically matches players based on their skill levels
-and region. Environmental Hazards: The game environment includes
-dynamic obstacles and hazards that affect gameplay.
+Developed a 2D real-time multiplayer fighting game using Canvas, Node.js, Express.js, JavaScript, Socket.IO, and NGINX load balancing. Features real-time combat with seamless synchronization, skill-based matchmaking, and dynamic environmental hazards.
 
 ---
 
 ### **AI Parental Control Extension**
 
-Developed AI Parental Control, a Chrome extension enhancing child safety
-online by monitoring, logging, and restricting web activity. It captures
-YouTube and browsing history—video titles, snippets, URLs, and
-timestamps—stored securely in local storage. Inappropriate content is
-blocked using external (adult, gambling) and custom blocklists, updated
-every six hours via Chrome’s Declarative Net Request API for efficient
-performance. Features include a responsive popup UI, a Parental
-Dashboard for activity monitoring and filtering, and Real-Time Alerts for
-restricted access attempts.
+Built a Chrome extension to enhance child online safety by monitoring and restricting web activity. Captures browsing and YouTube history, blocks inappropriate content using updated blocklists, and provides a responsive dashboard with real-time alerts.
 
 ## 📫 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janavee2k6@gmail.com)
