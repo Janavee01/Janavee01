@@ -1,82 +1,99 @@
 ## About Me
 I'm a full-stack web developer passionate about creating impactful, secure, and intelligent web applications. I specialize in turning ideas into responsive, user-friendly platforms — from AI-powered tools and interactive dashboards to decentralized NFT-based solutions.  
 
-- ⚙️ **Full-Stack & Real-Time Applications:** Building scalable apps with Node.js, Express.js, React, and Flutter, including real-time multiplayer games with Socket.IO and NGINX load balancing.  
-- 🤖 **AI & Interactive Tools:** Developing AI-driven apps with NLP, TTS, emotion analysis, and webcam-based simulations using Next.js and Tailwind CSS, such as **Emovox** and the **Skincare AI Kiosk**.  
-- 🔒 **Security & Monitoring Solutions:** Designing web security and monitoring systems, including cloud-integrated dashboards, parental control extensions, and real-time alerts.  
-- 🌐 **Decentralized & Blockchain Solutions:** Implementing NFT-based secure data access, time-limited rentals, and multi-use NFTs for encrypted personal data (**NFT Rental Tickets**).  
-- 🎨 **Creative UI/UX Development:** Crafting responsive, accessible, and engaging interfaces, with projects like the **ICSD Official Website** and **Recruitment Portal** highlighting modern, interactive designs.  
+- **Full-Stack & Real-Time Applications:** Building scalable apps with Node.js, Express.js, React, and Flutter, including real-time multiplayer games with Socket.IO and NGINX load balancing.  
+- **AI & Interactive Tools:** Developing AI-driven apps with NLP, TTS, emotion analysis, and webcam-based simulations using Next.js and Tailwind CSS, such as Emovox and the Skincare AI Kiosk.  
+- **Security & Monitoring Solutions:** Designing web security and monitoring systems, including cloud-integrated dashboards, parental control extensions, and real-time alerts.  
+- **Decentralized & Blockchain Solutions:** Implementing NFT-based secure data access, time-limited rentals, and multi-use NFTs for encrypted personal data (NFT Rental Tickets).  
+- **Creative UI/UX Development:** Crafting responsive, accessible, and engaging interfaces, with projects like the ICSD Official Website and Recruitment Portal highlighting modern, interactive designs.  
 
-**📫 Connect with me:** [janavee2k6@gmail.com](mailto:janavee2k6@gmail.com)
+**Contact:** [janavee2k6@gmail.com](mailto:janavee2k6@gmail.com)
 
 ---
 
-## Projects:
+## Projects
+
+### **NFT Rental Tickets**
+A decentralized platform where NFTs act as secure keys to encrypted personal data. Each NFT represents access to a vault or dataset, enabling temporary or conditional sharing without revealing passwords or storing personal data centrally.
+
+**Key Features:**
+- Time-limited or conditional access for NFT holders.  
+- Encrypted data vaults accessible only by NFT holders.  
+- Verifiable ownership and automatic expiration of access rights via blockchain.  
+- Multi-use NFTs that can be reused or transferred while maintaining secure access rules.  
+
+**Repository:** [NFT Rental Tickets](https://github.com/Janavee01/NFT_rental_tickets)  
+**Tech Stack:** Solidity, Ethereum, Web3.js, React, Tailwind CSS, Node.js  
+
+---
+
+### **Emotion Aware Storyteller – Emovox**
+Full-stack AI-powered web app that brings written stories to life through emotionally intelligent narration. Designed for creators, educators, and visually impaired users.
+
+**Features:**
+- NLP with DistilRoBERTa for sentence-level emotion analysis.  
+- TinyLlama and Parler-TTS for expressive, emotion-driven narration.  
+- Automatic overlay of emotion-matched background music and visualization of emotional tone with Chart.js.  
+
+**Tech Stack:** Next.js, React, Tailwind CSS, NLP, TTS  
+
+---
 
 ### **Skincare AI Kiosk App**
+Responsive web application simulating an AI-powered skincare analysis kiosk.  
 
-Developed a responsive web application simulating an AI-powered
-skincare analysis kiosk using React and Tailwind CSS. Integrated live
-webcam input to simulate real-time skin condition detection and delivered
-personalized product recommendations based on predefined rules.
-Designed an interactive, customer-friendly UI with guided steps and
-smooth animations, creating an engaging experience for users seeking
-skincare advice.
+**Features:**
+- Real-time skin condition detection using live webcam input.  
+- Personalized product recommendations based on predefined rules.  
+- Interactive, guided UI with smooth animations for an engaging user experience.  
+
+**Tech Stack:** React, Tailwind CSS, OpenCV  
 
 ---
 
 ### **ICSD Student Club – Official Website & Recruitment Portal**
+Complete web presence for the ICSD student club, structured as a monorepo with two Next.js applications: an informational website and a recruitment portal.
 
-Built a complete web presence for the ICSD student club, with two Next.js apps: an informational website and a recruitment portal.
+- **Official Website:** Single-page site with interactive WebGL effects and fully responsive design.  
+  **Live Demo:** [Website](https://site-fu5n1mj73-janavee01s-projects.vercel.app/)  
+  **Tech Stack:** Next.js, TypeScript, React, Tailwind CSS, OGL (WebGL)  
 
-Live Demo: [Website](https://site-fu5n1mj73-janavee01s-projects.vercel.app/)
-Tech Stack: Next.js, TypeScript, React, Tailwind CSS, OGL (WebGL)
-Recruitment Portal: Dynamic department forms, client-side validation (React Hook Form & Zod), and serverless data submission to Google Sheets. Modern, accessible UI with shadcn/ui.
-Live Demo: [Portal](https://recruitmentportalicsd.vercel.app/)
-Tech Stack: Next.js, TypeScript, React, Tailwind CSS, shadcn/ui, Radix UI, Google Apps Script
-
-### **Emotion Aware Storyteller –Emovox**
-
-Emovox – Full-stack AI-powered web app that focuses on bringing written
-stories to life through emotionally intelligent narration. Designed for
-creators, educators, and visually impaired users. Integrated NLP,
-DistilRoBERTa-based sentence-level emotion analysis, TinyLlama for
-emotion-driven voice direction, and Parler-TTS for expressive narration.
-Automatically overlays emotion-matched background music and
-visualizes emotional tone progression with Chart.js.
-
----
-
-### **NFT Rental Tickets**
-
-A decentralized platform where NFTs act as secure keys to encrypted personal data. Each NFT represents access to a vault or dataset, enabling temporary or conditional sharing without revealing passwords or storing personal data centrally.
-
-## Key Features:
-Time-Limited or Conditional Access: NFT holders can access data only for a defined duration or under specific conditions.
-Encrypted Data Vaults: All data remains encrypted; only NFT holders can decrypt it.
-Verifiable Ownership: Blockchain ensures transparent ownership and automatic expiration of access rights.
-Multi-Use NFTs: NFTs can be reused or transferred while maintaining secure access rules.
-Repository: NFT Rental Tickets
-Tech Stack: Solidity, Ethereum, Web3.js, React, Tailwind CSS, Node.js
+- **Recruitment Portal:** Dynamic department forms, client-side validation with React Hook Form & Zod, and serverless data submission to Google Sheets. Modern, accessible UI built with shadcn/ui.  
+  **Live Demo:** [Portal](https://recruitmentportalicsd.vercel.app/)  
+  **Tech Stack:** Next.js, TypeScript, React, Tailwind CSS, shadcn/ui, Radix UI, Google Apps Script  
 
 ---
 
 ### **Multiplayer Game**
+2D real-time multiplayer fighting game using Canvas, Node.js, Express.js, JavaScript, Socket.IO, and NGINX load balancing.  
 
-Developed a 2D real-time multiplayer fighting game using Canvas, Node.js, Express.js, JavaScript, Socket.IO, and NGINX load balancing. Features real-time combat with seamless synchronization, skill-based matchmaking, and dynamic environmental hazards.
+**Features:**
+- Real-time combat with seamless synchronization.  
+- Skill-based matchmaking.  
+- Dynamic environmental hazards affecting gameplay.  
+
+**Tech Stack:** Node.js, Express.js, Socket.IO, Canvas, JavaScript, NGINX  
 
 ---
 
 ### **AI Parental Control Extension**
+Chrome extension enhancing child safety online by monitoring and restricting web activity.  
 
-Built a Chrome extension to enhance child online safety by monitoring and restricting web activity. Captures browsing and YouTube history, blocks inappropriate content using updated blocklists, and provides a responsive dashboard with real-time alerts.
+**Features:**
+- Captures browsing and YouTube history.  
+- Blocks inappropriate content using updated blocklists.  
+- Responsive dashboard with real-time alerts.  
 
-## 📫 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janavee2k6@gmail.com)
+**Tech Stack:** JavaScript, Chrome Extensions API, Tailwind CSS  
 
 ---
 
-## 💻 Tech Stack:
+## Socials
+[Email](mailto:janavee2k6@gmail.com) | [LinkedIn](https://www.linkedin.com/in/janavee-v-7809072b7/)
+
+---
+
+## Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -110,5 +127,18 @@ Built a Chrome extension to enhance child online safety by monitoring and restri
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-1E1E1E?logo=web3dotjs&logoColor=white)
+![DistilRoBERTa](https://img.shields.io/badge/DistilRoBERTa-007ACC?logo=python&logoColor=white)
+![TinyLlama](https://img.shields.io/badge/TinyLlama-007ACC?logo=python&logoColor=white)
+![Parler-TTS](https://img.shields.io/badge/Parler--TTS-007ACC?logo=python&logoColor=white)
+![OGL / WebGL](https://img.shields.io/badge/OGL-WebGL-FF6F00?logo=opengl&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas-FF6F00?logo=html5&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-000000?logo=radix-ui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn_ui-000000?logo=react&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-0F9D58?logo=google&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janavee01&layout=compact&theme=dark)
