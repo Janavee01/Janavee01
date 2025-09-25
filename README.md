@@ -29,10 +29,10 @@ skincare advice.
 
 Built a complete web presence for the ICSD student club, with two Next.js apps: an informational website and a recruitment portal.
 
-Live Demo: [Wwbsite](https://site-fu5n1mj73-janavee01s-projects.vercel.app/)
+Live Demo: [Website](https://site-fu5n1mj73-janavee01s-projects.vercel.app/)
 Tech Stack: Next.js, TypeScript, React, Tailwind CSS, OGL (WebGL)
 Recruitment Portal: Dynamic department forms, client-side validation (React Hook Form & Zod), and serverless data submission to Google Sheets. Modern, accessible UI with shadcn/ui.
-Live Demo: (https://recruitmentportalicsd.vercel.app/)
+Live Demo: [Portal](https://recruitmentportalicsd.vercel.app/)
 Tech Stack: Next.js, TypeScript, React, Tailwind CSS, shadcn/ui, Radix UI, Google Apps Script
 
 ### **Emotion Aware Storyteller –Emovox**
