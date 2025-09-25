@@ -5,11 +5,16 @@ I'm Janavee, a full-stack web developer passionate about creating impactful, sec
 
  ---
  
-- **Full-Stack & Real-Time Applications:** Building scalable apps with Node.js, Express.js, React, and Flutter, including real-time multiplayer games with Socket.IO and NGINX load balancing.
-- **AI & Interactive Tools:** Developing AI-driven apps with NLP, TTS, emotion analysis, and webcam-based simulations using Next.js and Tailwind CSS, such as Emovox and the Skincare AI Kiosk.
-- **Decentralized & Blockchain Solutions:** Implementing NFT-based secure data access, time-limited rentals, and multi-use NFTs for encrypted personal data (NFT Rental Tickets).  
-- **Security & Monitoring Solutions:** Designing web security and monitoring systems, including cloud-integrated dashboards, parental control extensions, and real-time alerts.  
-- **Creative UI/UX Development:** Crafting responsive, accessible, and engaging interfaces, with projects like the ICSD Official Website and Recruitment Portal highlighting modern, interactive designs.
+- ![Full-Stack](https://img.shields.io/badge/Full--Stack-🌐-blue) **Full-Stack & Real-Time Applications:** Building scalable apps with Node.js, Express.js, React, and Flutter, including real-time multiplayer games with Socket.IO and NGINX load balancing.
+
+- ![AI](https://img.shields.io/badge/AI-🤖-purple) **AI & Interactive Tools:** Developing AI-driven apps with NLP, TTS, emotion analysis, and webcam-based simulations using Next.js and Tailwind CSS, such as Emovox and the Skincare AI Kiosk.
+
+- ![Blockchain](https://img.shields.io/badge/Blockchain-🪙-orange) **Decentralized & Blockchain Solutions:** Implementing NFT-based secure data access, time-limited rentals, and multi-use NFTs for encrypted personal data (NFT Rental Tickets).
+
+- ![Security](https://img.shields.io/badge/Security-🔒-red) **Security & Monitoring Solutions:** Designing web security and monitoring systems, including cloud-integrated dashboards, parental control extensions, and real-time alerts.
+
+- ![UI/UX](https://img.shields.io/badge/UI--UX-🎨-pink) **Creative UI/UX Development:** Crafting responsive, accessible, and engaging interfaces, with projects like the ICSD Official Website and Recruitment Portal highlighting modern, interactive designs.
+
 
 **Contact:** [janavee2k6@gmail.com](mailto:janavee2k6@gmail.com)
 
@@ -37,8 +42,9 @@ Full-stack AI-powered web app that brings written stories to life through emotio
 **Features:**
 - NLP with DistilRoBERTa for sentence-level emotion analysis.  
 - TinyLlama and Parler-TTS for expressive, emotion-driven narration.  
-- Automatic overlay of emotion-matched background music and visualization of emotional tone with Chart.js.  
-
+- Automatic overlay of emotion-matched background music and visualization of emotional tone with Chart.js.
+- 
+**Repository:** [Emovox](https://github.com/Janavee01/Emovox)  
 **Tech Stack:** Next.js, React, Tailwind CSS, NLP, TTS  
 
 ---
@@ -51,6 +57,7 @@ Responsive web application simulating an AI-powered skincare analysis kiosk.
 - Personalized product recommendations based on predefined rules.  
 - Interactive, guided UI with smooth animations for an engaging user experience.  
 
+**Repository:** [Skinsense](https://github.com/Janavee01/SkinSense) 
 **Tech Stack:** React, Tailwind CSS, OpenCV  
 
 ---
@@ -65,7 +72,7 @@ Complete web presence for the ICSD student club, structured as a monorepo with t
 - **Recruitment Portal:** Dynamic department forms, client-side validation with React Hook Form & Zod, and serverless data submission to Google Sheets. Modern, accessible UI built with shadcn/ui.  
   **Live Demo:** [Portal](https://recruitmentportalicsd.vercel.app/)  
   **Tech Stack:** Next.js, TypeScript, React, Tailwind CSS, shadcn/ui, Radix UI, Google Apps Script  
-
+**Repository:** [Repo](https://github.com/Janavee01/club_website_and_recuritment_portal) 
 ---
 
 ### **Multiplayer Game**
@@ -93,7 +100,7 @@ Chrome extension enhancing child safety online by monitoring and restricting web
 ---
 
 ## Socials
-[Email](mailto:janavee2k6@gmail.com) | [LinkedIn](https://www.linkedin.com/in/janavee-v-7809072b7/)
+📧 [Email](mailto:janavee2k6@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/janavee-v-7809072b7/)
 
 ---
 
