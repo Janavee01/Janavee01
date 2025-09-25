@@ -1,7 +1,7 @@
 ## About Me
 **I'm Janavee, a full-stack web developer passionate about creating impactful, secure, and intelligent web applications. I specialize in turning ideas into responsive, user-friendly platforms — from AI-powered tools and interactive dashboards to decentralized NFT-based solutions.**  
 
-
+---
 
 - **Full-Stack & Real-Time Applications:** Building scalable apps with Node.js, Express.js, React, and Flutter, including real-time multiplayer games with Socket.IO and NGINX load balancing. 
 - **AI & Interactive Tools:** Developing AI-driven apps with NLP, TTS, emotion analysis, and webcam-based simulations using Next.js and Tailwind CSS, such as Emovox and the Skincare AI Kiosk.
