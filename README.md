@@ -1,5 +1,6 @@
 ## About Me
-*I'm a full-stack web developer passionate about creating impactful, secure, and intelligent web applications. I specialize in turning ideas into responsive, user-friendly platforms — from AI-powered tools and interactive dashboards to decentralized NFT-based solutions.*  
+**I'm Janavee, a full-stack web developer passionate about creating impactful, secure, and intelligent web applications. I specialize in turning ideas into responsive, user-friendly platforms — from AI-powered tools and interactive dashboards to decentralized NFT-based solutions.**  
+
 
 
 - **Full-Stack & Real-Time Applications:** Building scalable apps with Node.js, Express.js, React, and Flutter, including real-time multiplayer games with Socket.IO and NGINX load balancing. 
