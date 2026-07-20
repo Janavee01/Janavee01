@@ -11,109 +11,131 @@
 
 ## About
 
-- Building full-stack and AI systems end to end — recent work spans a hybrid RAG legal advisor, a computer-vision pipeline that turns floor plans into 3D renders, and a real-time multiplayer game engine.
-- Currently sharpening retrieval quality and evaluation rigor in RAG pipelines, and getting deeper into system design for real-time, low-latency applications.
-- Interested in the intersection of AI and product — taking models beyond a notebook into something people can actually use, fast and reliably.
+- Building intelligent systems ranging from hybrid RAG pipelines and computer vision workflows to real-time multiplayer architectures and full-stack applications.
+- Interested in retrieval systems, distributed computing, multimodal AI, and understanding how complex systems work under the hood.
+- Passionate about taking ideas from prototype to production, with a focus on building systems that are both technically rigorous and practical to use.
 
 ---
-
 ## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**AI Legal Advisor**
+### AI Legal Advisor
+*Hybrid retrieval over 37+ Indian Acts, benchmarked, not just built*
 
-A hybrid RAG system answering questions over 37+ Indian Acts by combining semantic retrieval, BM25 keyword search, query expansion, and reranking. Ships with its own evaluation harness — Hit@1, Hit@3, Hit@5, and MRR — to catch retrieval failures before they become wrong answers.
+Combines semantic retrieval, BM25 keyword search, query expansion, and reranking to answer legal questions accurately. Ships with its own evaluation harness — Hit@1, Hit@3, Hit@5, and MRR — to catch retrieval failures before they become wrong answers.
 
-`Python` `ChromaDB` `Sentence Transformers` `BM25` `FastAPI`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1C1C1C?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-[Repository](https://github.com/Janavee01/Legal_Advisor)
-
-</td>
-<td width="50%" valign="top">
-
-**FloorPlan AI**
-
-A computer vision pipeline that takes a 2D architectural floor plan and produces a photorealistic, furnished 3D render. Multi-pass OCR extracts room labels under any font or contrast, a custom Voronoi flood-fill segments open-plan layouts without needing walls between rooms, and a ControlNet + Stable Diffusion stage renders the final scene.
-
-`Python` `OpenCV` `PyTorch` `Tesseract` `ControlNet` `Stable Diffusion`
-
-[Repository](https://github.com/Janavee01/floorplan)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Real-Time Multiplayer Game**
-
-A 2D multiplayer fighting game on a server-authoritative architecture with async, event-driven networking. Custom state-reconciliation logic cut desync incidents by 95%, holding sync latency under 60ms even under load, with NGINX load balancing across game instances.
-
-`Node.js` `Express` `Socket.IO` `NGINX` `JavaScript`
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Janavee01/Legal_Advisor)
 
 </td>
 <td width="50%" valign="top">
 
-**Emovox — Emotion-Aware Storyteller**
+### FloorPlan AI
+*2D architectural plan in, furnished 3D render out*
 
-Turns written stories into emotionally expressive narration. Sentence-level emotion is scored with DistilRoBERTa, TinyLlama shapes the voice direction, and Parler-TTS handles expressive speech synthesis, with matching background music layered in automatically. Built for creators, educators, and visually impaired readers.
+Multi-pass OCR extracts room labels under any font or contrast. A custom Voronoi flood-fill segments open-plan layouts without needing walls between rooms. A ControlNet + Stable Diffusion stage renders the final photorealistic scene.
 
-`Next.js` `React` `NLP` `TinyLlama` `Parler-TTS`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-000000?style=flat-square)
 
-[Repository](https://github.com/Janavee01/Emovox)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Janavee01/floorplan)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**NFT Rental Tickets**
+### Real-Time Multiplayer Game
+*Server-authoritative, sub-60ms sync, 95% fewer desyncs*
 
-A decentralized access-control system where NFTs act as secure, time-limited keys to encrypted personal data vaults — no passwords, no centralized storage. Supports conditional access, automatic expiration, and multi-use NFTs whose access rules stay intact on-chain.
+A 2D multiplayer fighting game with async, event-driven networking. Custom state-reconciliation logic keeps every client in sync, load-balanced across game instances with NGINX.
 
-`Solidity` `Ethereum` `Web3.js` `React` `Tailwind CSS`
-
-[Repository](https://github.com/Janavee01/NFT_rental_tickets)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**ICSD Club Website & Recruitment Portal**
+### Emovox — Emotion-Aware Storyteller
+*Text in, emotionally-directed narration out*
 
-A monorepo of two Next.js applications built for a student technical club: a WebGL-driven informational site and a recruitment portal with client-side validated forms, serverless submissions to Google Sheets, and a UI built on shadcn/ui and Radix.
+Sentence-level emotion is scored with DistilRoBERTa, TinyLlama shapes the voice direction, and Parler-TTS handles expressive speech synthesis — with matching background music layered in automatically.
 
-`Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` `Google Apps Script`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
+![TTS](https://img.shields.io/badge/Parler--TTS-6E40C9?style=flat-square)
 
-[Repository](https://github.com/Janavee01/club_website_and_recruitment_portal) · [Website](https://site-fu5n1mj73-janavee01s-projects.vercel.app/) · [Portal](https://recruitmentportalicsd.vercel.app/)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Janavee01/Emovox)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**SkinSense**
+### NFT Rental Tickets
+*NFTs as time-limited keys to encrypted data vaults*
 
-A responsive web app simulating an AI-powered skincare kiosk — real-time skin condition detection through a live webcam feed, with rule-based product recommendations and a smooth, guided UI.
+A decentralized access-control system — no passwords, no centralized storage. Supports conditional access, automatic expiration, and multi-use NFTs whose access rules stay intact on-chain.
 
-`React` `Tailwind CSS` `OpenCV`
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-[Repository](https://github.com/Janavee01/SkinSense)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Janavee01/NFT_rental_tickets)
 
 </td>
 <td width="50%" valign="top">
 
-**AI Parental Control Extension**
+### ICSD Club Website & Recruitment Portal
+*Two production Next.js apps, built and shipped for a real club*
 
-A Chrome extension for monitoring and restricting a child's browsing activity — tracks browsing and YouTube history, blocks content against updated blocklists, and surfaces everything on a responsive dashboard with real-time alerts.
+A WebGL-driven informational site plus a recruitment portal with client-side validated forms and serverless submissions to Google Sheets, built on shadcn/ui and Radix.
 
-`JavaScript` `Chrome Extensions API` `Tailwind CSS`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square)
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Janavee01/club_website_and_recruitment_portal)
+[![Live](https://img.shields.io/badge/Live_Site-000000?style=flat-square&logo=vercel&logoColor=white)](https://site-fu5n1mj73-janavee01s-projects.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### SkinSense
+*Webcam in, skincare recommendations out*
+
+A responsive web app simulating an AI-powered skincare kiosk — real-time skin condition detection through a live webcam feed, with rule-based product recommendations and a guided UI.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Janavee01/SkinSense)
+
+</td>
+<td width="50%" valign="top">
+
+### AI Parental Control Extension
+*Chrome extension for real-time content monitoring*
+
+Tracks browsing and YouTube history, blocks content against updated blocklists, and surfaces everything on a responsive dashboard with real-time alerts.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## Tech Stack
