@@ -193,10 +193,6 @@ Tracks browsing and YouTube history, blocks content against updated blocklists, 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Janavee01&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Janavee01&theme=algolia&no-frame=true&column=7&margin-w=8" alt="Trophies"/>
 </p>
 
