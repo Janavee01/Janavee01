@@ -97,6 +97,5 @@
 ---
 
 <p align="center">
-  <b>Let's talk.</b> I'm looking for roles where I can keep building systems like these.<br/>
   <a href="mailto:janavee2k6@gmail.com">janavee2k6@gmail.com</a> · <a href="https://www.linkedin.com/in/janavee-v-7809072b7/">LinkedIn</a>
 </p>
