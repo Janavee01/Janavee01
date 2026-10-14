@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>Open to full-time and internship roles</b> · Full-Stack · AI/ML Engineering · Backend
+  Full-Stack · AI/ML Engineering · Backend
 </p>
 
 ---
@@ -24,7 +24,6 @@
 | **Focus** | Hybrid RAG and retrieval systems, computer vision, multimodal AI, real-time networking |
 | **Strengths** | Taking ideas from prototype to production; evaluating systems with metrics rather than guesswork |
 | **Languages** | Python · TypeScript/JavaScript · Java · C/C++ · SQL |
-| **Shipped** | Two production Next.js apps for a real club, a benchmarked RAG system, a server-authoritative multiplayer game |
 | **Contact** | [janavee2k6@gmail.com](mailto:janavee2k6@gmail.com) |
 
 ---
