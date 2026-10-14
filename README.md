@@ -1,4 +1,4 @@
-#                              Janavee V
+<h1 align="center">Janavee V</h1>
 
 <h3 align="center">Software Engineer · Full-Stack Development · AI/ML</h3>
 
@@ -42,7 +42,7 @@
 
 `Go` `PostgreSQL` `ClickHouse` `REST APIs` `HashiCorp Vault` `AWS Secrets Manager`
 
-[**Repository →**](https://github.com/Janavee01/AgentPlane)
+[**Repository →**](https://github.com/dexterhere04/AgentPlane)
 
 ---
 
