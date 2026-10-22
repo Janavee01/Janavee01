@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer · Full-Stack Development · AI/ML</h3>
 
 <p align="center">
-  I build software across the stack — from backend infrastructure and web applications to AI-powered systems. I enjoy solving engineering problems, designing reliable systems, and turning ideas into working products.
+  I build software across the stack - from backend infrastructure and web applications to AI-powered systems. I enjoy solving engineering problems, designing reliable systems, and turning ideas into working products.
 </p>
 
 <p align="center">
